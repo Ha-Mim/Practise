@@ -1,0 +1,8 @@
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe.config
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.pdb
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.NumberUI.resources
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.Properties.Resources.resources
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.exe
+D:\asp.net\gorom\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.pdb

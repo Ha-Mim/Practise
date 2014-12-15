@@ -1,0 +1,9 @@
+D:\asp.net\gorom\PlanetApp\PlanetApp\bin\Debug\PlanetApp.exe.config
+D:\asp.net\gorom\PlanetApp\PlanetApp\obj\Debug\PlanetApp.csprojResolveAssemblyReference.cache
+D:\asp.net\gorom\PlanetApp\PlanetApp\obj\Debug\PlanetApp.Planets.resources
+D:\asp.net\gorom\PlanetApp\PlanetApp\obj\Debug\PlanetApp.Properties.Resources.resources
+D:\asp.net\gorom\PlanetApp\PlanetApp\obj\Debug\PlanetApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\PlanetApp\PlanetApp\bin\Debug\PlanetApp.exe
+D:\asp.net\gorom\PlanetApp\PlanetApp\bin\Debug\PlanetApp.pdb
+D:\asp.net\gorom\PlanetApp\PlanetApp\obj\Debug\PlanetApp.exe
+D:\asp.net\gorom\PlanetApp\PlanetApp\obj\Debug\PlanetApp.pdb

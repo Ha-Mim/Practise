@@ -1,0 +1,9 @@
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe.config
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.pdb
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csprojResolveAssemblyReference.cache
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.personalInfo.resources
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.Properties.Resources.resources
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.exe
+D:\asp.net\gorom\PersonalInformationApp\PersonalInformationApp\obj\Debug\PersonalInformationApp.pdb

@@ -1,0 +1,5 @@
+D:\asp.net\gorom\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe.config
+D:\asp.net\gorom\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.exe
+D:\asp.net\gorom\BonusCalculatorApp\BonusCalculatorApp\bin\Debug\BonusCalculatorApp.pdb
+D:\asp.net\gorom\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.exe
+D:\asp.net\gorom\BonusCalculatorApp\BonusCalculatorApp\obj\Debug\BonusCalculatorApp.pdb

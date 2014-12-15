@@ -1,0 +1,9 @@
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorUI.resources
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+D:\asp.net\gorom\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
